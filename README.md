@@ -1,4 +1,4 @@
-# City of Brampton Automation
+# City of Brampton Xplor Recreation Software Automation
 
 This automation tool is designed to streamline the process of adding new fees and removing outdated fees from the City of Brampton's Xplor Software. It logs all changes (added and deleted fees) to a CSV file for easy tracking and reference.
 
