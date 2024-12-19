@@ -11,6 +11,7 @@ This automation tool is designed to streamline the process of adding new fees an
 1. Install the required dependencies using pip:
    ```bash
    pip install -r requirements.txt
+2. If in LIVE mode, set the `USERNAME` constant variable to a valid brampton email
 
 ## Instructions
 1. Set the `TEST` constant variable to `true` or `false`
